@@ -3,10 +3,10 @@
 
 Welcome to the official hub for the **Air Toxics and Ozone Precursors (ATOPs)** program. We provide a complete ecosystem for environmental data transparency, interoperability, and scientific analysis in Colorado.
 
-## 🌍 Our Mission
+## Our Mission
 The environmental monitoring landscape is shifting. With new technologies emerging, diverse organizations—from state agencies to community groups—are collecting vast amounts of data. ATOPS develops open-source tools and data standards to help harmonize, exchange, and aggregate these disparate datasets for a cleaner, healthier Colorado.
 
-## 🏛️ Our Four Pillars
+## Our Projects
 
 ### 1. The AQDx Data Standard
 The **Air Quality Data Exchange (AQDx)** standard is a universal language for air quality and weather data. It harmonizes disparate datasets through:
@@ -14,7 +14,7 @@ The **Air Quality Data Exchange (AQDx)** standard is a universal language for ai
 * **Structured Metadata:** Machine-readable YAML forms for critical experiment-level context.
 * **Flexible Implementations:** Native support for CSV, JSON streaming, and Parquet formats.
 
-👉 **[View the Full AQDx Documentation](https://cdphe-atops.github.io/aqdx-documentation/)**
+**[View the Full AQDx Documentation](https://cdphe-atops.github.io/aqdx-documentation/)**
 
 ### 2. Public Data Hosting
 We believe in radical transparency. We host and maintain public environmental datasets, ensuring they are accessible, well-documented, and formatted according to modern standards for use by researchers and the public.
