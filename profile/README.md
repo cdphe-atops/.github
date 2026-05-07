@@ -8,7 +8,7 @@ The environmental monitoring landscape is shifting. With new technologies emergi
 
 ## Our Projects
 
-### 1. The AQDx Data Standard
+### The AQDx Data Standard
 The **Air Quality Data Exchange (AQDx)** standard is a universal language for air quality and weather data. It harmonizes disparate datasets through:
 * **Unified Vocabularies:** Standardized parameter naming and measurement technology codes.
 * **Structured Metadata:** Machine-readable YAML forms for critical experiment-level context.
@@ -16,13 +16,13 @@ The **Air Quality Data Exchange (AQDx)** standard is a universal language for ai
 
 **[View the Full AQDx Documentation](https://cdphe-atops.github.io/aqdx-documentation/)**
 
-### 2. Public Data Hosting
+### Public Data Hosting
 We believe in data transparency. We host and maintain public environmental datasets, ensuring they are accessible, well-documented, and formatted according to modern standards for use by researchers and the public.
 
-### 3. Published Data Analysis
+### Published Data Analysis
 Beyond providing raw data, we publish our formal data analyses. This offers transparent, reproducible workflows that demonstrate how environmental data is processed and interpreted to inform public health decisions in Colorado.
 
-### 4. Open-Source Tools & Scripts
+### Open-Source Tools & Scripts
 *(In Development)* We are building a suite of open-source analysis scripts and software tools. These tools are designed to help users validate, process, and visualize CDPHE data with ease and consistency.
 
 * **Stay Connected:** Visit our official program page at [CDPHE.colorado.gov/air-toxics](https://cdphe.colorado.gov/air-toxics).
